@@ -1,0 +1,5 @@
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.AspNetCore.Authentication.JwtBearer
+Swashbuckle.AspNetCore
+Microsoft.IdentityModel.Tokens
