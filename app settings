@@ -1,0 +1,8 @@
+"ConnectionStrings": {
+  "DefaultConnection": "Server=(localdb)\\MSSQLLocalDB;Database=EventBookingDb;Trusted_Connection=True;"
+},
+"Jwt": {
+  "Key": "SUPER_SECRET_KEY_123456",
+  "Issuer": "EventBookingAPI",
+  "Audience": "EventBookingAPIUsers"
+}
